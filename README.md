@@ -4,13 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/mayankverma01" target="blank"><img src="https://img.shields.io/twitter/follow/mayankverma01?logo=twitter&style=for-the-badge" alt="mayankverma01" /></a> </p>
 
-- 🌱 I’m currently learning **Servelts**
+
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Jy5ms3m4TOjA4ad96hNOZdHMbC9DZjwHd3S4RL1YKPs/edit](https://docs.google.com/document/d/1Jy5ms3m4TOjA4ad96hNOZdHMbC9DZjwHd3S4RL1YKPs/edit)
 
-- ⚡ Fun fact **Procrastination is a special skill of mine.**
 <h3 align="left">About me</h3>
 
 ❤ This is Mayank Verma,a student from Delhi,New Delhi, India.I have done under graduation from Ryan international school and Pursuing my graduation from HMRITM, IP University in Bachelor's in Information Technology.
