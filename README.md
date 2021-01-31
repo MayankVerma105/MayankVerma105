@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
-- 📄 Know about my experiences -> [http://bit.ly/2ManC7p](http://bit.ly/2ManC7p)
+- 📄 Know more about me -> [http://bit.ly/2ManC7p](http://bit.ly/2ManC7p)
 
 <h3 align="left">About me</h3>
 
