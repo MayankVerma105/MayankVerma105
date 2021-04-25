@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
-- 📄 Know more about me -> [http://bit.ly/2ManC7p](http://bit.ly/2ManC7p)
-
 <h3 align="left">About me</h3>
 
 ❤ This is Mayank Verma,a student from Delhi,New Delhi, India.I have done under graduation from Ryan international school and Pursuing my graduation from HMRITM, IP University in Bachelor's in Information Technology.
