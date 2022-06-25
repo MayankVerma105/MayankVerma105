@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
-
 - ⚡ Fun fact **I am a Full-Snack Developer**
 
 <h3 align="left">Connect with me:</h3>
