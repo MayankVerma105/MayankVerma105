@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
-- ⚡ Fun fact **I am a Full-Snack Developer**
+- ⚡ Fun fact **I am a QA-Automation Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
