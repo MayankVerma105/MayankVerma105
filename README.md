@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Verma</h1>
 <h3 align="center">A passionate QA Automation Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankverma105" alt="mayankverma105" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Automation**
 
 - 💬 Ask me about **Test Automation, Manual Testing**
