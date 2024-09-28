@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankverma105&label=Profile%20views&color=0e75b6&style=flat" alt="mayankverma105" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend Automation**
 
 - 👨‍💻 All of my projects are available at [mayank.club](mayank.club)
 
-- 💬 Ask me about **Test Automation, Manual Testing, Backend Automation**
+- 💬 Ask me about **Test Automation, Manual Testing**
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
