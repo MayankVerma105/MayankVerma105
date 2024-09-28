@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/PolarBearGG/PolarBearGG/blob/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Mayank Verma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate QA-Automation Engineer from India</h3>
 <img align= "right" alt="coding" width = "370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [mayank.club](mayank.club)
 
-- 💬 Ask me about **React, Vanilla**
+- 💬 Ask me about **Test Automation, Manual Testing, Backend Automation**
 
 - 📫 How to reach me **mayankverma0128@gmail.com**
 
